@@ -52,7 +52,6 @@ st.markdown("<h1>📊 Salary Explorer Dashboard</h1>", unsafe_allow_html=True)
 st.markdown("<p>Explore trends in salaries based on age, education, gender, and more using the Adult Income Dataset.</p>", unsafe_allow_html=True)
 st.markdown('</div>', unsafe_allow_html=True)
 
-
 @st.cache_data
 def load_data():
     df = pd.read_csv("adult.csv")
