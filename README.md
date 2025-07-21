@@ -5,31 +5,31 @@ This project aims to deliver clear insights into compensation patterns using mod
 
 📊 Key Features
 
--Clean, Minimal UI with category-wise navigation
--Interactive Filters for job title, employment type, and experience level
--Visualizations:
+- Clean, Minimal UI with category-wise navigation
+- Interactive Filters for job title, employment type, and experience level
+- Visualizations:
         1. Heatmaps for salary distributions
         2. Box plots by experience levels
         3. Trend analysis with line charts 
         4. Salary comparisons by country and job category 
--Real time Interactivity powered by Streamlit 
--Optimized Layout with responsive visuals for desktop and mobile
+- Real time Interactivity powered by Streamlit 
+- Optimized Layout with responsive visuals for desktop and mobile
 
 🧰 Tech Stack
 
--Frontend & App Framework: Streamlit
--Data Handling & Processing: pandas, numpy
--Visualizations: matplotlib, seaborn, plotly.express
--Deployment: Streamlit Community Cloud
+- Frontend & App Framework: Streamlit
+- Data Handling & Processing: pandas, numpy
+- Visualizations: matplotlib, seaborn, plotly.express
+- Deployment: Streamlit Community Cloud
 
 📂 Dataset
 
 The dashboard uses a curated employee salary dataset containing:
--Job titles
--Salary (USD)
--Experience levels (Entry, Mid, Senior, Executive)
--Remote ratio & employment type
--Company location & employee residence
+- Job titles
+- Salary (USD)
+- Experience levels (Entry, Mid, Senior, Executive)
+- Remote ratio & employment type
+- Company location & employee residence
 
 📌 Note: The dataset is pre-processed for better visualization performance.
 
