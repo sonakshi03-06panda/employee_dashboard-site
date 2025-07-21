@@ -118,4 +118,3 @@ buf.seek(0)
 
 # Display as an image with custom width
 st.image(Image.open(buf), caption="Correlation Heatmap", width=600)
-st.plotly_chart(fig4, use_container_width=True)
