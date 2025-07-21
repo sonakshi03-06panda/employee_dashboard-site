@@ -7,11 +7,10 @@ This project aims to deliver clear insights into compensation patterns using mod
 
 - Clean, Minimal UI with category-wise navigation
 - Interactive Filters for job title, employment type, and experience level
-- Visualizations:
-        1. Heatmaps for salary distributions
-        2. Box plots by experience levels
-        3. Trend analysis with line charts 
-        4. Salary comparisons by country and job category 
+- Visualizations: 1. Heatmaps for salary distributions.
+                  2. Box plots by experience levels.
+                  3. Trend analysis with line charts.
+                  4. Salary comparisons by country and job category 
 - Real time Interactivity powered by Streamlit 
 - Optimized Layout with responsive visuals for desktop and mobile
 
