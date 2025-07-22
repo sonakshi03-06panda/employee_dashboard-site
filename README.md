@@ -1,9 +1,9 @@
-💼 Employee Salary Explorer Dashboard
+# 💼 Employee Salary Explorer Dashboard
 
 An interactive data visualization dashboard built using Streamlit to explore employee salary trends across job roles, experience levels, employment types, and countries. 
 This project aims to deliver clear insights into compensation patterns using modern, responsive charts and filters for dynamic exploration.
 
-📊 Key Features
+## 📊 Key Features
 
 - Clean, Minimal UI with category-wise navigation
 - Interactive Filters for job title, employment type, and experience level
@@ -14,14 +14,14 @@ This project aims to deliver clear insights into compensation patterns using mod
 - Real time Interactivity powered by Streamlit 
 - Optimized Layout with responsive visuals for desktop and mobile
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
 - Frontend & App Framework: Streamlit
 - Data Handling & Processing: pandas, numpy
 - Visualizations: matplotlib, seaborn, plotly.express
 - Deployment: Streamlit Community Cloud
 
-📂 Dataset
+## 📂 Dataset
 
 The dashboard uses a curated employee salary dataset containing:
 - Job titles
@@ -32,7 +32,7 @@ The dashboard uses a curated employee salary dataset containing:
 
 📌 Note: The dataset is pre-processed for better visualization performance.
 
-📈 Future Enhancements
+## 📈 Future Enhancements
 
 1. Predictive salary modeling using ML
 2. Export filtered data as CSV/Excel
