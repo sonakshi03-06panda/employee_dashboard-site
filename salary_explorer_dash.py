@@ -16,8 +16,7 @@ st.markdown("""
         background: url("https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80");
         background-size: cover;
         background-position: center;
-        background-repeat: no-repeat;
-    }
+        background-repeat: no-repeat;}
 
     /* ✅ Transparent widgets and containers */
     [data-testid="stSidebar"], .css-1d391kg, .css-18ni7ap, .block-container {
