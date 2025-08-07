@@ -3,7 +3,7 @@
 An interactive data visualization dashboard built using Streamlit to explore employee salary trends across job roles, experience levels, employment types, and countries. 
 This project aims to deliver clear insights into compensation patterns using modern, responsive charts and filters for dynamic exploration.
 
-## 🚀 **Live Demo**:  
+🚀 **Live Demo**:  
 [▶️ Click here to open the dashboard](https://employeedashboard-site-dysg8gxvvywzgvrxzceyfh.streamlit.app/)
 ---
 
